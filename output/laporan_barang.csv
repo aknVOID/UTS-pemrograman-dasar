@@ -1,0 +1,8 @@
+id,nama,kategori,stok,harga
+BRG001,Laptop,Elektronik,5,7500000.0
+BRG002,Mouse,Elektronik,20,85000.0
+BRG003,Keyboard,Elektronik,12,150000.0
+BRG004,Kursi Kantor,Furnitur,8,450000.0
+BRG005,Meja Kerja,Furnitur,3,850000.0
+BRG006,Buku Catatan,ATK,30,12000.0
+BRG007,Pulpen,ATK,50,5000.0

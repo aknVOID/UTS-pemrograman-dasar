@@ -1,0 +1,6 @@
+=== CONTOH HASIL PENGUJIAN ===
+Menu 1: menampilkan 7 barang dari file barang.csv.
+Menu 3, keyword 'Laptop': BRG001 ditemukan.
+Menu 4, kategori 'Elektronik': BRG001, BRG002, BRG003 ditemukan.
+Menu 5: total jenis barang=7, kategori=3, total stok=128, nilai inventaris=Rp47,760,000.00.
+Menu 7: laporan_barang.csv dan laporan_inventaris.json berhasil dibuat.

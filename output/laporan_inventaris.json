@@ -1,0 +1,25 @@
+{
+    "ringkasan": {
+        "jumlah_jenis_barang": 7,
+        "jumlah_kategori": 3,
+        "total_stok": 128,
+        "total_nilai_inventaris": 47760000.0,
+        "barang_stok_menipis": [
+            {
+                "id": "BRG001",
+                "nama": "Laptop",
+                "stok": 5
+            },
+            {
+                "id": "BRG005",
+                "nama": "Meja Kerja",
+                "stok": 3
+            }
+        ]
+    },
+    "nilai_inventaris_per_kategori": {
+        "Elektronik": 41000000.0,
+        "Furnitur": 6150000.0,
+        "ATK": 610000.0
+    }
+}
